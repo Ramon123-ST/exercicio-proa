@@ -92,7 +92,7 @@ esse repositorio foi criado com intuito de armazenar meus exercicios.
 
 
 
-# fazer um miojo passo a passo soq já ta comprado.
+# fazer um miojo passo a passo.
 ✅ Passo 1: Pegando o pacotinho
 
 0.1 A pessoa abre o armário da cozinha e pega aquele pacotinho colorido de miojo.
