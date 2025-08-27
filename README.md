@@ -92,5 +92,87 @@ esse repositorio foi criado com intuito de armazenar meus exercicios.
 
 
 
+# fazer um miojo passo a passo soq já ta comprado.
+✅ Passo 1: Pegando o pacotinho
 
-fazer um miojo passo a passo soq já ta comprado 
+0.1 A pessoa abre o armário da cozinha e pega aquele pacotinho colorido de miojo.
+
+0.2 Vira o pacote e dá uma olhada rápida no modo de preparo, mesmo que já saiba de cor (por puro hábito).
+
+✅ Passo 2: Escolhendo a panela
+
+0.1 Vai até o armário das panelas.
+
+0.2 Coloca em cima do fogão.
+
+0.3 Olha para dentro da panela para ver se está limpa. Se tiver algum pozinho, dá uma passadinha rápida com um pano seco ou enxágua na pia.
+
+✅ Passo 3: Colocando água
+
+0.1 Pega uma garrafa ou abre a torneira e enche a panela com água.
+
+0.2 Enquanto a água cai, pensa: “Será que faço só o miojo ou invento algo? Ovo? Queijo? Nah… hoje é clássico mesmo.”
+
+0.3 Coloca a panela de volta no fogão, com cuidado para não pingar água pelo caminho.
+
+✅ Passo 4: Acendendo o fogo
+
+0.1 Gira o botão do fogão para a chama média.
+
+0.2 O clique do acendedor.
+
+0.3 Aproxima a panela devagar, ajeitando para ficar bem centralizada.
+
+✅ Passo 5: Esperando a água ferver
+
+0.1 Fica olhando a panela por um instante.
+
+0.2 Pega o pacotinho de miojo e começa a abrir com os dedos. Às vezes, não rasga fácil, então dá aquela puxada mais forte.
+
+0.3 Pega o bloquinho de macarrão.
+
+0.4 Coloca o sachê de tempero ao lado, pronto para usar.
+
+✅ Passo 6: Colocando o macarrão
+
+0.1 A água começa a ferver.
+
+0.2 Coloca o bloquinho de macarrão dentro da panela. 
+
+0.3 Parte o macarrão no meio ou não? Essa dúvida surge sempre. Às vezes, ele quebra em dois, às vezes deixa inteiro.
+
+0.4 Afunda o macarrão com um garfo para que fique todo coberto pela água quente.
+
+✅ Passo 7: Cozinhando
+
+0.1 Agora é só esperar uns 3 minutos. Dá umas mexidas leves com o garfo, vendo os fios começarem a soltar e girar pela panela.
+
+0.2 O cheiro começa a aparecer, um cheiro suave de massa cozinhando.
+
+0.3 Enquanto isso, pensa: “Caramba, como esse miojo salva a vida.”
+
+0.4 A água vai ficando meio turva e cheia de amido. O macarrão já está macio, meio inchado.
+
+✅ Passo 8: Colocando o tempero
+
+0.1 Desliga o fogo, vira o botão devagar e escuta o clique final.
+
+0.2 Só abre o sachê e despeja direto na panela, mexendo bem.
+
+0.3 O cheiro fica mais forte, aquele aroma de galinha com sal que todo mundo reconhece.
+
+✅ Passo 9: Servindo
+
+0.1 Pega um prato fundo (ou come na própria panela).
+
+0.2 Coloca o miojo com cuidado, usando um garfo ou despejando tudo direto.
+
+✅ Passo 10: O primeiro garfo
+
+0.1 Enrola um pouco do macarrão no garfo, sopra devagar porque ta quente.
+
+0.2 Coloca na boca e... “Ahhh, isso sim. Nada melhor que um miojo quentinho.”
+
+0.3 E aí segue a vida, feliz com aquele prato simples que resolve tudo.
+
+       #fim
