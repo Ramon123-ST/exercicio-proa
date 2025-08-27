@@ -1,7 +1,7 @@
 # exercicio-proa
 esse repositorio foi criado com intuito de armazenar meus exercicios.
 
- 1. Chegada à porta do banco
+✅1. Chegada à porta do banco
 
 0.1 A pessoa entra no prédio do banco.
 
@@ -23,11 +23,11 @@ esse repositorio foi criado com intuito de armazenar meus exercicios.
 
 0.10 passa para dentro do banco.
 
- 2. Observação do ambiente interno
+✅2. Observação do ambiente interno
 
 0.1 vejo algumas pessoas esperando na fila, algumas mexendo no celular, outras olhando para os caixas eletrônicos.
 
- 3. Dirigindo-se ao caixa eletrônico
+✅3. Dirigindo-se ao caixa eletrônico
 
 0.1 Caminha até a área de autoatendimento onde estão as máquinas.
 
